@@ -1,0 +1,60 @@
+@import url(https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-indicator.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-video.css);
+
+.paginate{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.paginateButtons{
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.prevLink {
+	font-size: 0%;
+}
+
+.currentStep {
+	padding: 4px;
+	font-size: 120%;
+}
+
+.step {
+	padding: 4px;
+	font-size: 100%;
+}
+
+.nextLink {
+	font-size: 200%;
+	margin-top: 20px;
+	display:block;
+}
+
+/*.blueimp-gallery > .title {
+	font-size: 10px;
+	line-height: 15px;
+}*/
+
+img {
+	width: 100%;
+}
+
+@media (min-width: 801px){
+	img {
+		width: auto;
+	}
+}
+
+.loadinguser{
+	width: auto;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
