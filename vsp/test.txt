@@ -1,1 +1,1 @@
-http://logs-01.loggly.com/inputs/73a8d473-a711-4998-b867-8ea13ed87417/tag/Unity3D
+http://logs-01.loggly.com/inputs/23fa1631-2285-43c9-be52-5f762e77e5f3/tag/Unity3D
